@@ -31,3 +31,7 @@ Separa o Array conforme os índices
 ## Método splice 
 
 Remove ou substitui elementos do array conforme os índices 
+
+## Método concat
+
+Combina dois ou mais arrays 
