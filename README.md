@@ -19,3 +19,7 @@ Adiciona elementos no ínicio do Array
 ## Método includes 
 
 Busca valores exatos no Array
+
+## Método join 
+
+Para cada elemento do Array adiciona um espeço e um separador 
