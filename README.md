@@ -27,3 +27,7 @@ Para cada elemento do Array adiciona um espeço e um separador
 ## Método slice 
 
 Separa o Array conforme os índices
+
+## Método splice 
+
+Remove ou substitui elementos do array conforme os índices 
